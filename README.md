@@ -24,8 +24,4 @@ Following are the screenshots of the application:
  <p align="center"><img width="500px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/VeRbal_3.png" /></p>
  
  ### 3. Website
- <p align="center"><img width="500px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/VeRbal_4.jpeg" /></p>
- 
- 
- ## How to use?
- Download the Verbal.APK from the <a href="https://www.linkedin.com/in/mohini-gupta485/">APK</a> folder. Use a VR headset and start playing with the game!  
+ <p align="center"><img width="500px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/VeRbal_4.jpeg" /></p
