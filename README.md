@@ -1,7 +1,7 @@
 # VeRbal - ConVRsational 
 ### Virtual Reality 
 
-<p align="center"><img width="500px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/logo.JPG" /></p>
+<p align="center"><img width="300px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/logo.JPG" /></p>
 
 *This project was created as a Advanced User Interface course in Politecnico Di Milano by a group of total 4 students.*  
 
