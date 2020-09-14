@@ -1,7 +1,7 @@
 # VeRbal - ConVRsational 
 ### Virtual Reality 
 
-<img width="200px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/logo.JPG" />
+<p align="center"><img width="500px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/logo.JPG" /></p>
 
 *This project was created as a Advanced User Interface course in Politecnico Di Milano by a group of total 4 students.*  
 
@@ -18,14 +18,13 @@ Website is created to monitor the children's progress. As of now, anyone can mon
 Following are the screenshots of the application:
 
 ### 1. Test mode
-<img width="200px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/VeRbal_1.PNG" />
+<p align="center"><img width="500px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/VeRbal_1.PNG" /></p>
 
  ### 2. Training mode 
- (screenshot from the VR applicaton)
- <img width="200px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/VeRbal_3.png" />
+ <p align="center"><img width="500px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/VeRbal_3.png" /></p>
  
  ### 3. Website
- <img width="200px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/VeRbal_4.jpeg" />
+ <p align="center"><img width="500px" src="https://github.com/mohini-gupta/VeRbal-AUI/blob/master/web-folder/VeRbal_4.jpeg" /></p>
  
  
  ## How to use?
